@@ -1,0 +1,19 @@
+Exercícios de fixação
+
+1.Em que ano o modelo relacional de banco de dados foi desenvolvido?
+Foi criado em 1970-1972
+
+2.Quem é considerado o "pai dos bancos de dados relacionais"?
+Edgar Frank Codd
+
+3.Explique a diferença de um Banco de Dados, um Sistema Gerenciador de Banco de Dados e um Sistema de Banco de Dados.
+Banco de dados é onde armazena os dados, o gerenciador é onde fala os erros do sistema e é usado para controlar o acesso e mudar esses dados, o sistema de banco de dados é o conjunto dos dois junto com as aplicações que usam essas informações
+
+4. Quais são as principais características de um banco de dados?
+segurança e organização 
+
+5. Quais são os diferentes níveis de abstração em um banco de dados.
+Nivel externo nível logico e nível interno
+
+6.Liste as vantagens de usar um banco de dados.
+Reduzir erros no sistema e maior segurança dos arquivos armazenados
